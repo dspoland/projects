@@ -19,9 +19,3 @@ for f in files:
     print(f['name'], f['mimeType'])
 
 
-{
-"kind": "drive#file",
-"id": "13uQAbdcr0uuqWmleHUWJ9bWLLhFttk0P6i6e3gD3Fjs"
-"name": "FINDMEEEE"
-"mimeType": "application/vnd.google-apps.spreadsheet"
-   }
